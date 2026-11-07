@@ -9,7 +9,7 @@ Bienvenue sur le dépôt public hébergeant mon CV interactif et mes information
 ## 🌐 Liens Rapides & CV en Ligne
 
 - **📄 CV Interactif (HTML) :** [https://matterfreelance.github.io/CV-et-references/](https://matterfreelance.github.io/CV-et-references/)
-- **💼 LinkedIn :** [https://linkedin.com/in/alexandrematter](https://linkedin.com/in/alexandrematter)
+- **💼 LinkedIn :** [https://linkedin.com/in/alexandrematter]([https://linkedin.com/in/alexandrematter](https://www.linkedin.com/in/alexandre-matter-9b135b262/))
 - **📧 Contact direct :** [alexandre.matter.freelance@gmail.com](mailto:alexandre.matter.freelance@gmail.com)
 
 ---
